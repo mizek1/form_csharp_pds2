@@ -85,6 +85,7 @@
             // 
             this.ctSenha.Location = new System.Drawing.Point(81, 92);
             this.ctSenha.Name = "ctSenha";
+            this.ctSenha.PasswordChar = '*';
             this.ctSenha.Size = new System.Drawing.Size(292, 20);
             this.ctSenha.TabIndex = 5;
             // 
