@@ -44,6 +44,7 @@
             this.btEntrar.TabIndex = 0;
             this.btEntrar.Text = "Entrar";
             this.btEntrar.UseVisualStyleBackColor = true;
+            this.btEntrar.Click += new System.EventHandler(this.btEntrar_Click);
             // 
             // btSair
             // 
@@ -53,6 +54,7 @@
             this.btSair.TabIndex = 1;
             this.btSair.Text = "Sair";
             this.btSair.UseVisualStyleBackColor = true;
+            this.btSair.Click += new System.EventHandler(this.btSair_Click);
             // 
             // label1
             // 

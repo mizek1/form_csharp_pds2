@@ -1,0 +1,10 @@
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\bin\Debug\form_csharp.exe.config
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\bin\Debug\form_csharp.exe
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\bin\Debug\form_csharp.pdb
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.csprojAssemblyReference.cache
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.Form1.resources
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.Properties.Resources.resources
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.csproj.GenerateResource.cache
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.exe
+C:\Users\Danilo Alves\Source\Repos\form_csharp_pds2\form_csharp\obj\Debug\form_csharp.pdb
