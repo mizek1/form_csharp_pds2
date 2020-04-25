@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btEntrar = new System.Windows.Forms.Button();
             this.btSair = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -38,21 +39,28 @@
             // 
             // btEntrar
             // 
-            this.btEntrar.Location = new System.Drawing.Point(205, 140);
+            this.btEntrar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btEntrar.BackgroundImage")));
+            this.btEntrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btEntrar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btEntrar.Location = new System.Drawing.Point(248, 140);
             this.btEntrar.Name = "btEntrar";
-            this.btEntrar.Size = new System.Drawing.Size(75, 23);
+            this.btEntrar.Size = new System.Drawing.Size(67, 23);
             this.btEntrar.TabIndex = 0;
             this.btEntrar.Text = "Entrar";
+            this.btEntrar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btEntrar.UseVisualStyleBackColor = true;
             this.btEntrar.Click += new System.EventHandler(this.btEntrar_Click);
             // 
             // btSair
             // 
-            this.btSair.Location = new System.Drawing.Point(298, 140);
+            this.btSair.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btSair.BackgroundImage")));
+            this.btSair.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btSair.Location = new System.Drawing.Point(321, 140);
             this.btSair.Name = "btSair";
-            this.btSair.Size = new System.Drawing.Size(75, 23);
+            this.btSair.Size = new System.Drawing.Size(52, 23);
             this.btSair.TabIndex = 1;
             this.btSair.Text = "Sair";
+            this.btSair.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btSair.UseVisualStyleBackColor = true;
             this.btSair.Click += new System.EventHandler(this.btSair_Click);
             // 
